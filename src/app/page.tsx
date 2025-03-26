@@ -6,14 +6,14 @@ const games = [
     id: 1,
     title: "Binary Maze Runner",
     description: "Guide your AI bot through procedurally generated mazes while collecting data fragments.",
-    thumbnail: "/next.svg", // Using placeholder until real images are added
+    thumbnail: "/games/binary-maze.svg",
     tags: ["Puzzle", "Logic", "AI"]
   },
   {
     id: 2,
     title: "Chrome Dino's Neural Network",
     description: "Train your AI dinosaur to evolve and overcome increasingly challenging obstacles.",
-    thumbnail: "/next.svg",
+    thumbnail: "/games/chrome-dino.svg",
     tags: ["Adventure", "AI Training", "Evolution"]
   },
   {
