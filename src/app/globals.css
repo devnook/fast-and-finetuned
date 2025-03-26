@@ -1,6 +1,5 @@
 :root {
-  --font-geist-sans: 'Geist', sans-serif;
-  --font-geist-mono: 'Geist Mono', monospace;
+  --font-roboto: 'Roboto', sans-serif;
   --background: #f5f5f5; /*Keeping this for dark mode compatibility, though overridden*/
   --foreground: #333; /*Keeping this for dark mode compatibility, though overridden*/
 }
