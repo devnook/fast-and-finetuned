@@ -20,14 +20,14 @@ const games = [
     id: 3,
     title: "Cache Memory Quest",
     description: "Solve memory allocation puzzles to help your robot optimize its processing power.",
-    thumbnail: "/next.svg",
+    thumbnail: "/games/cache-memory.svg",
     tags: ["Memory", "Strategy", "Optimization"]
   },
   {
     id: 4,
     title: "Quantum Bot Explorer",
     description: "Navigate through quantum realms while solving parallel processing challenges.",
-    thumbnail: "/next.svg",
+    thumbnail: "/games/quantum-bot.svg",
     tags: ["Exploration", "Quantum", "Puzzle"]
   },
   {
